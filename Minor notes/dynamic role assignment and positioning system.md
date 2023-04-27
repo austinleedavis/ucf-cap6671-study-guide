@@ -15,6 +15,7 @@ Aim of the process:
 
 For position $P1$, there are 3 options: either A1, A2, or A3 gets it (see left-most column below). 
 If agent A1 is assigned to position P1 ($A1\to P1$), then there are two remaining possibilities for assigning P2. So, given $f_v(A1\to P1)$, either $A2\to P2$ or $A3\to P3$ (ref column 2 below).
+
 ![[dynamic-role-assignment-table.png]]
 
 ![[dynamic-role-assignment-algorithm-pseudocode.png]]

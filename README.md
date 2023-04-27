@@ -30,7 +30,7 @@ sort date desc
 	- [[@Stone1999]] The CMUnited-98 champion simulator team
 	- [[@Wang2006]] Cooperating robots for search and rescue
 - week06	
-	- [[@Certickỳ2018]] Starcraft AI competitions, bots, and tournament manager software
+	- [[@Certickỳ2018]] Starcr/aft AI competitions, bots, and tournament manager software
 	- [[@Churchill2012]] Incorporating search algorithms into RTS game agents
 	- [[@Kaelbling1996]] Reinforcement learning: A survey
 	- [[@Stone1999a]] Team-partitioned, opaque-transition reinforcement learning

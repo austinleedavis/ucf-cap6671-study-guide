@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36e5d43378abab2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading notes/@Greenwald2009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "672f337ac02fc145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lecture 18 Final Exam Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Massive cross-platform",
+                "query": "HTN",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 345.5
   },
   "right": {
     "id": "8da651dd1a1b1eb1",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Lecture 18 Final Exam Review.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Lecture 18 Final Exam Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Lecture 18 Final Exam Review.md"
               }
             }
           }
@@ -161,51 +148,51 @@
   },
   "active": "672f337ac02fc145",
   "lastOpenFiles": [
-    "bibliography-cap6671-class.md",
+    "Reading/week06/starcraft.pdf",
     "Lecture 18 Final Exam Review.md",
+    "Reading notes/@Churchill2012.md",
+    "bibliography-cap6671-class.md",
     "README.md",
+    "@Stone1999a.md",
     "Minor notes/dynamic role assignment and positioning system.md",
+    "Lecture Notes/Lecture 08.md",
+    "Lecture Notes/Lecture 04.md",
+    "Lecture Notes/Lecture 03.md",
+    "Lecture Notes/Lecture 02.md",
+    "Lecture Notes/Lecture 01.md",
+    "Minor notes/Graphplan.md",
+    "Minor notes/RETSINA.md",
+    "Reading/cap6671-all-lectures-combined.pdf",
+    "Reading notes/@Greenwald2009.md",
+    "Minor notes/Planning vs Scheduling.md",
+    "Minor notes/Dock Worker Robot (DWR) domain.md",
+    "Reading/week01/sycara-mas.pdf",
+    "Reading notes/@Brooks2008.md",
+    "Reading notes/@Jennings2014.md",
+    "Lecture Notes/Lecture 07.md",
+    "Lecture Notes/Lecture 09.md",
+    "Lecture Notes/Lecture 10.md",
     "Reading/week05/macalpine.pdf",
     "Media/dynamic-role-assignment-results.png",
     "Media/dynamic-role-assignment-benchmarks.png",
-    "Lecture Notes/Lecture 08.md",
     "Reading/week05/mendoza2016.pdf",
     "Reading/week05/stone99cmunited.pdf",
     "Media/dynamic-role-assignment-algorithm-pseudocode.png",
     "Media/dynamic-role-assignment-table.png",
-    "Minor notes/RETSINA.md",
     "Minor notes/TAC Classic competition.md",
     "Lecture Notes/Lecture 18 (part 2) End of Course Summary.md",
-    "Lecture Notes/Lecture 07.md",
     "Reading/week04/greenwald01autonomous.pdf",
     "README2.md",
-    "Reading notes/@Greenwald2009.md",
     "Reading notes/@Kelly2008.md",
-    "Reading notes/@Greenwald2012.md",
-    "Lecture Notes/Lecture 16.md",
-    "Lecture Notes/Lecture 17.md",
-    "Reading notes/@Muric2020.md",
-    "Reading notes/@sycara2003retsina.md",
-    "Reading notes/@Sycara1998.md",
-    "Reading notes/@Brooks2008.md",
-    "Reading notes/@Jennings2014.md",
-    "Reading notes/@Nau2007.md",
-    "Lecture Notes/Lecture 15.md",
-    "Lecture Notes/Lecture Extra 2.md",
-    "Lecture Notes/Lecture 10.md",
     "Reading/week02/AIIDE08-010.pdf",
-    "Minor notes/MAS coordination types.md",
     "Minor notes",
     "Media/baysian-odds-update.png",
     "Media/odds-bayesian-update.png",
     "Media/Combining Sensor Data.png",
     "Media/Mapping example, occupancy of tree-lined path.png",
-    "Reading/cap6671-all-lectures-combined.pdf",
     "Media/pasted images/nau-planning-fig4.png",
     "Media/pasted images",
     "Media/pasted images/Policy improvement via Monte-Carlo.png",
-    "Lecture Notes",
-    "Reading/week04/RoxyBot06.pdf",
     "Untitled.canvas"
   ]
 }

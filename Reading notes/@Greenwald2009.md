@@ -3,7 +3,7 @@ title: RoxyBot-06: Stochastic prediction and optimization in TAC travel
 authors: Amy Greenwald, S Lee, Victor Naroditskiy
 year: 2009
 note: week04
-pdffile:: RoxyBot06.pdf
+pdffile:: [[RoxyBot06.pdf]]
 ---
 
 Will be on the [[Lecture 18 Final Exam Review#Trading Agent Competition]]

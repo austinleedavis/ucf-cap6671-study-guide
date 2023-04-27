@@ -68,15 +68,14 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 - **Upper Confidence bounds for Trees** #uct-algorithm [[UCT Algorithm]]
 	- Know how to calculate UCT
 
-
 ## Trading Agent Competition
+- This topic was discussed in detail in [[Lecture 08]]. 
 - Must understand basic rules of [[TAC Classic competition|Trading Agent Competition#Rules]]
 - Must understand ideas behind combinatorial valuation and **bidding** See: [[@Greenwald2012]]
 - Must understand general operation of ATTac and Roxybot (See [[@Greenwald2009]])
 - **[[Markov Decision Process]]** #MDP 
 - General ideas behind **Sample Average Approximation** See: [[@Greenwald2009]]
 - Not responsible remembering details of competition results
-
 
 ## Robocup
 - General research questions
@@ -89,9 +88,13 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 
 ## Starcraft
 - Description of the competition
-- What makes RTS games interesting for AI
+- What makes RTS games interesting for AI. Answer: 
+	- Imperfect information
+	- Real-time requirement limits computation time
+	- Opponent (e.g., exploitation of poor strategies) modeling
 - Bot internals
-- Unit micro strategy experiments (describe the paper)
+- Unit micro strategy experiments:
+	- Read Eval section of [[starcraft.pdf]]
 
 ## Reinforcement Learning
 - Exploration vs. exploitation for policy search
@@ -112,7 +115,6 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 - Policy gradient and actor critic
 
 ## Robotics: Path Planning
-
 - Terminology and Fundamental concepts of map representation 
 - **A*** and real-time **A***
 	- One detailed question about A*
@@ -121,7 +123,6 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 - Sampling planners (RRT, PRM) (We Read a paper on RRT)
 - Graph-based planning and extraction (e.g., Voronoi/visibility graphs)
 - No questions on ROS
-
 
 ## Robotics: Localization
 - Must understand **Bayesian updating**
