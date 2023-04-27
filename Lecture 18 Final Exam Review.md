@@ -97,13 +97,16 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 	- Read Eval section of [[starcraft.pdf]]
 
 ## Reinforcement Learning
-- Exploration vs. exploitation for policy search
-- **Q-learning** "How tabular Q-learning works"
-- Value iteration
-- Difference between Model-free vs. model-based RL
+- Just watch [Q Learning Explained (tutorial) - YouTube](https://www.youtube.com/watch?v=aCEvtRtNO-M)
+	- **Q-learning** "How tabular Q-learning works"
+	- Exploration vs. exploitation for policy search
+	- Value iteration
+	- Difference between Model-free vs. model-based RL
 - **Transfer learning**
 	- Case study for Robocup (a paper on this)
 - Multi-agent learning (TPOT-RL)
+
+
 
 ## Deep Learning Review
 ("Will try not to make these questions too difficult")
