@@ -13,11 +13,8 @@ status::
 - Spatial position (since positioning is very important given slow speed)
 
 ## Role allocation
-> 
-> Do understand the dynamic programming solution for the [[Lecture 18 Final Exam Review#Robocup|final exam]]
-> 
-- from: UT Austin Villa 3dD Simulation RoboCup 2011, Peter Stone's research group
--  The authors then solved this using **dynamic programming** (since suboptimal positioning between two robots would be suboptimal in the full team. and conversely optimality in sub-solutions implies full-solution optimality)
+- from: UT Austin Villa 3dD Simulation RoboCup 2011, Peter Stone's research group [[macalpine.pdf]]
+- The authors then solved this using **dynamic programming** (since suboptimal positioning between two robots would be suboptimal in the full team. and conversely optimality in sub-solutions implies full-solution optimality)
 - Do not change position mapping before the robots reaches the target position
 - Authors used lexicographic ordering to minimize longest distance travelled while, avoiding collisions and remain dynamically consistent
 	- Lexicographical ordering here means we're not minimizing **total cost**
@@ -25,7 +22,7 @@ status::
 	- Seems like it would've been sufficient to just use $L^2$, $L^3$ sor $L^n$ norm for distance, but okay.
 -  Voting coordination used to resolve conflicts
 
-#final-project Peter Stone's group from UT-Austin does a good job #evaluating & benchmarking
+#final-project Peter Stone's group from UT-Austin does a good job #evaluating & benchmarking ref: [[macalpine.pdf]]
 - Compares against not only other teams, but also other versions of their algorithm
 
 # CM Dragons Team
