@@ -102,11 +102,9 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 	- Exploration vs. exploitation for policy search
 	- Value iteration
 	- Difference between Model-free vs. model-based RL
-- **Transfer learning**
-	- Case study for Robocup (a paper on this)
+- **Transfer learning** (reference [[Lecture 13]])
+	- Case study for Robocup (a paper on this) [[Lecture 13# TL in Robocup]]
 - Multi-agent learning (TPOT-RL)
-
-
 
 ## Deep Learning Review
 ("Will try not to make these questions too difficult")
@@ -130,11 +128,11 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 ## Robotics: Localization
 - Must understand **Bayesian updating**
 	- "Understand how Baye's Rule works"
-- Must understand the process of belief update on maps
-- Must understand operation of **Monte Carlo localization**
+- Must understand the process of belief update on maps (ref: [[Lecture 15#Bayesian Updating]])
+- Must understand operation of **Monte Carlo localization** (ref: [[Lecture 16#Monte Carlo Localization]])
 	- "Definitely understand how MC localization works"
 - Must understand general research issues behind mapping, localization and coverage
-- Must understand general SLAM problem and these approaches:
+- Must understand general SLAM problem and these approaches (ref: [[Lecture 16#Simultaneous Localization and Mapping (SLAM)]]):
 	- FASTSLAM
 	- Kalman filter
 

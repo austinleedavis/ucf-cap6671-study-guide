@@ -27,10 +27,10 @@ DARPA did a whole program on Transfer Learning, and in all these programs they w
 You have agents which are asked to do slightly different things, reducing the training time via a **jumpstart** or a **time to threshold** or a **better asymptotic performance**
 
 # TL in Robocup
-**Question:** How can we transfer learning from other types of tasks sto Robocup or its subtasks like keepaway?
+**Question:** How can we transfer learning from other types of tasks to Robocup or its subtasks like keep away?
 
 The interesting thing is they wanted to look at transfer between very different tasks:
-- **Keepaway**: Keepers are given information about the angles with action state A={hold,Pass1,Pass2}, it's a game of understanding the angles, and determining which pass is the most advantageous.
+- **Keep away**: Keepers are given information about the angles with action state A={hold,Pass1,Pass2}, it's a game of understanding the angles, and determining which pass is the most advantageous.
 - **Ring world game**: Rewarded for staying away from opponent, moving toward target 1 or target 2, when player is contrained on a ring
 - **Knights Joust**: Players alternate moves on a grid, can move A={N,E,W}. Player rewarded for advancing distance from player to Goal.
 

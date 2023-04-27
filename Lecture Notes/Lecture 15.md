@@ -51,12 +51,3 @@ Combining evidence involves the following steps:
 - Pointing the sensor at the same location for long periods of time will increase resolution
 
 
-- Must understand **Bayesian updating**
-	- "Understand how Baye's Rule works"
-- Must understand the process of belief update on maps (ref: [[Lecture 15#Bayesian Updating]])
-- Must understand operation of **Monte Carlo localization** (ref: [[Lecture 16#Monte Carlo Localization]])
-	- "Definitely understand how MC localization works"
-- Must understand general research issues behind mapping, localization and coverage
-- Must understand general SLAM problem and these approaches (ref: [[Lecture 16#Simultaneous Localization and Mapping (SLAM)]]):
-	- FASTSLAM
-	- Kalman filter
