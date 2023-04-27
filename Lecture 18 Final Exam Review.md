@@ -1,9 +1,9 @@
 title:: Final Exam Review
 date:: 2024-04-19
 status:: Complete
-[[Lecture 18 (part 2) End of Course Summary|<<prev]] | [[README2|next>>]]
+[[Lecture 18 (part 2) End of Course Summary|<<prev]] | [[README|next>>]]
 
-The following sections come from Lecture 18, where Gita gave a review for the Final Exam. The markdown below was initially created based on Gita's slides.
+The following sections come from Lecture 18 (Recording available on [Zoom (ucf.edu)](https://webcourses.ucf.edu/courses/1422160/external_tools/305492)), where Gita gave a review for the Final Exam. The markdown below was initially created based on Gita's slides.
 
 When you see a topic/algorithm in **bold**, that topic will very likely have a workout problem on the Final Exam.
 
@@ -81,8 +81,8 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 ## Robocup
 - General research questions
 - Problems addressed by specific leagues
-- Details of the CMU-United team (TPOT-RL,potential field mechanisms, locker-room coordination)
-- **UT Austin Villa** : dynamic role assignment and positioning system
+- Details of the [[CMU-United team]] (TPOT-RL, potential field mechanisms, locker-room coordination)
+- UT Austin Villa's **[[dynamic role assignment and positioning system]]**
 - Selectively Reactive Coordination architecture
 - Urban Rescue league and HRI issues
 - No need to remember the specific results from competitions
@@ -141,8 +141,5 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 - General problem: Multi-agent Path Finding
 	- "No paper on this, just understand the general problem"
 
-# Modeling Humans
-- Motivation for social simulation research
-- Background on SocialSim competitions
-- Operation of cross-platform simulations
+
 

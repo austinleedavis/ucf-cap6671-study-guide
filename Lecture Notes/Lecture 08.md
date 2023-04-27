@@ -13,6 +13,9 @@ status::
 - Spatial position (since positioning is very important given slow speed)
 
 ## Role allocation
+> 
+> Do understand the dynamic programming solution for the [[Lecture 18 Final Exam Review#Robocup|final exam]]
+> 
 - from: UT Austin Villa 3dD Simulation RoboCup 2011, Peter Stone's research group
 -  The authors then solved this using **dynamic programming** (since suboptimal positioning between two robots would be suboptimal in the full team. and conversely optimality in sub-solutions implies full-solution optimality)
 - Do not change position mapping before the robots reaches the target position

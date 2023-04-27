@@ -23,14 +23,28 @@
             "id": "672f337ac02fc145",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Reading/week04/greenwald01autonomous.pdf"
+                "file": "dynamic role assignment and positioning system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32ceae2524c70fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dynamic role assignment and positioning system.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,6 @@
       {
         "id": "a4fd35720d9fe4b2",
         "type": "tabs",
-        "dimension": 37.98449612403101,
         "children": [
           {
             "id": "1c4574eaf1e3962b",
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/week04/greenwald01autonomous.pdf",
+                "file": "dynamic role assignment and positioning system.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/week04/greenwald01autonomous.pdf",
+                "file": "dynamic role assignment and positioning system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,31 +143,23 @@
                 "useHierarchy": true
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "a3e1025e0a80701f",
-        "type": "tabs",
-        "dimension": 62.01550387596899,
-        "children": [
+          },
           {
             "id": "a16a86bcaf658ac8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading/week04/greenwald01autonomous.pdf"
+                "file": "dynamic role assignment and positioning system.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,15 +171,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "672f337ac02fc145",
+  "active": "32ceae2524c70fb1",
   "lastOpenFiles": [
-    "README2.md",
-    "README.md",
     "Lecture 18 Final Exam Review.md",
+    "README.md",
+    "bibliography-cap6671-class.md",
+    "Lecture Notes/Lecture 18 (part 2) End of Course Summary.md",
+    "dynamic role assignment and positioning system.md",
+    "Lecture Notes/Lecture 08.md",
+    "Lecture Notes/Lecture 07.md",
+    "Reading/week04/greenwald01autonomous.pdf",
+    "README2.md",
     "Reading notes/@Greenwald2009.md",
     "Reading notes/@Kelly2008.md",
     "Reading notes/@Greenwald2012.md",
-    "Lecture Notes/Lecture 18 (part 2) End of Course Summary.md",
     "Lecture Notes/Lecture 16.md",
     "Lecture Notes/Lecture 17.md",
     "Reading notes/@Muric2020.md",
@@ -195,15 +205,10 @@
     "Media/odds-bayesian-update.png",
     "Media/Combining Sensor Data.png",
     "Media/Mapping example, occupancy of tree-lined path.png",
-    "Reading/week04/greenwald01autonomous.pdf",
     "Reading/cap6671-all-lectures-combined.pdf",
     "Media/pasted images/nau-planning-fig4.png",
     "Media/pasted images",
     "Minor notes/UCT Algorithm.md",
-    "Minor notes/TAC Classic competition.md",
-    "Minor notes/Sussman anomaly.md",
-    "Minor notes/STRIPS notation.md",
-    "Minor notes/Roxybot.md",
     "Media/pasted images/Policy improvement via Monte-Carlo.png",
     "Lecture Notes",
     "Media/pasted images/nau-planning-fig8-htn-subtasks.png",

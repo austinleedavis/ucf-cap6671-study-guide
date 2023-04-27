@@ -1,5 +1,5 @@
- 
-[[Lecture 18 Final Exam Review]] study guide
+[[Lecture 18 Final Exam Review]] is the study guide
+All course slides are compiled in [[cap6671-all-lectures-combined.pdf]]
 
 ```dataview
 table date, (date.weekyear - 1) as wk, title, status as "notes"
