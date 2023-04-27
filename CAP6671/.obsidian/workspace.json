@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "e5cff052a0b19add",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fbad25417fd554f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e5d43378abab2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading notes/@Greenwald2009.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "672f337ac02fc145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dynamic role assignment and positioning system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32ceae2524c70fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6db63805ed24f175",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b455d2288e0f258",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9358fff101e8e051",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e9cc7ad35e3dd6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Massive cross-platform",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "129df15c05d61cbd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8da651dd1a1b1eb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4fd35720d9fe4b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c4574eaf1e3962b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c95bbf9e02205633",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cdd34cb3d3a0837",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a16a86bcaf658ac8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "32ceae2524c70fb1",
+  "lastOpenFiles": [
+    "Lecture Notes/Lecture 18 (part 2) End of Course Summary.md",
+    "Lecture 18 Final Exam Review.md",
+    "README.md",
+    "dynamic role assignment and positioning system.md",
+    "Lecture Notes/Lecture 08.md",
+    "Lecture Notes/Lecture 07.md",
+    "Reading/week04/greenwald01autonomous.pdf",
+    "README2.md",
+    "Reading notes/@Greenwald2009.md",
+    "Reading notes/@Kelly2008.md",
+    "Reading notes/@Greenwald2012.md",
+    "Lecture Notes/Lecture 16.md",
+    "Lecture Notes/Lecture 17.md",
+    "Reading notes/@Muric2020.md",
+    "Reading notes/@sycara2003retsina.md",
+    "Reading notes/@Sycara1998.md",
+    "Reading notes/@Brooks2008.md",
+    "Reading notes/@Jennings2014.md",
+    "Reading notes/@Nau2007.md",
+    "Lecture Notes/Lecture 15.md",
+    "Lecture Notes/Lecture Extra 2.md",
+    "Lecture Notes/Lecture 10.md",
+    "Reading/week02/AIIDE08-010.pdf",
+    "Minor notes/MAS coordination types.md",
+    "Minor notes/RETSINA.md",
+    "Minor notes/Bandit algorithms.md",
+    "Minor notes",
+    "Media/baysian-odds-update.png",
+    "Media/odds-bayesian-update.png",
+    "Media/Combining Sensor Data.png",
+    "Media/Mapping example, occupancy of tree-lined path.png",
+    "Reading/cap6671-all-lectures-combined.pdf",
+    "Media/pasted images/nau-planning-fig4.png",
+    "Media/pasted images",
+    "Minor notes/UCT Algorithm.md",
+    "Minor notes/TAC Classic competition.md",
+    "Media/pasted images/Policy improvement via Monte-Carlo.png",
+    "Lecture Notes",
+    "Media/pasted images/nau-planning-fig8-htn-subtasks.png",
+    "Media/pasted images/TAC Auctions Server.png",
+    "Media/pasted images/TAC Rules.png",
+    "Reading/week04/RoxyBot06.pdf",
+    "Reading/cap6671-conclusion.pdf",
+    "Media/pasted images/UCT vs Minimax Tree Monte-Carlo.png",
+    "Reading/week02/nau-planning.pdf",
+    "Reading/A_1024172719965.pdf",
+    "Untitled.canvas"
+  ]
+}
