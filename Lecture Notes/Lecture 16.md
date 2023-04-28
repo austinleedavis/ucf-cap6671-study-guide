@@ -36,6 +36,8 @@ Localization via image processing typically failes because of noise in the data
 ## Monte Carlo Localization
 Solves by repeatedly sensing and using bayes to update its model of its position.
 
+$$P(p_1|S)$$
+
 A robot moves through the map (which must be known *a piori*) and we update 
 
 **particle filters** are assigned an equal weight and assuming 

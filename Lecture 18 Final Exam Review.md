@@ -102,6 +102,7 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 	- Exploration vs. exploitation for policy search
 	- Value iteration
 	- Difference between Model-free vs. model-based RL
+	- Additional reading: [On-Policy v/s Off-Policy Learning | by Abhishek Suran | Towards Data Science](https://towardsdatascience.com/on-policy-v-s-off-policy-learning-75089916bc2f)
 - **Transfer learning** (reference [[Lecture 13]])
 	- Case study for Robocup (a paper on this) [[Lecture 13# TL in Robocup]]
 - Multi-agent learning (TPOT-RL)
@@ -112,7 +113,7 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 - **Neural network** and backpropagation
 	- How Convolutional NN and max pooling layers work
 	- Do not need to know recurrent RNNs and LSTMs
-- **DQN** (basic algorithm "IN DEPTH", and what the purpose of those components are)
+- **[[DQN]]** (basic algorithm "IN DEPTH", and what the purpose of those components are)
 - Policy gradient and actor critic
 
 ## Robotics: Path Planning

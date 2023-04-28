@@ -35,7 +35,7 @@ Bayes rule allows us to get from a sensor model to a decision model.
 	- $P(o\wedge S)=P(o|S)P(S)$, and
 	- $P(S\wedge o)=P(S|o)P(o)$
 - Bayes Rule switches the conditioning event:
-	- $P(o|S)=\frac{P(S|o)P(o)}{P(S)}$
+	- $$P(o|S)=\frac{P(S|o)P(o)}{P(S)}$$
 - We will assume *conditional Independence* of events: 
 	- $P(S_1\wedge S_2|o) = P(S_1|o)P(S_2|o)$
 
@@ -43,11 +43,11 @@ Bayes rule allows us to get from a sensor model to a decision model.
 Typically, we use odds (especially $\log(odds)$) rather than probabilities to maintain numerical stability (probabilities)
 
 Updating means the following: Given the old occupancy odds $odds(o |S_1) = \frac{p(o|S_1)}{p(\neg{o}|S_1)}$ and a new sensor reading, $S_2$, we want the new occupancy odds, i.e., we want $$odds(\neg o |S_1\wedge S_2) = \frac{p(o|S_1\wedge S_2)}{p(\neg{o}|S_1\wedge S_2)}$$
-Side note: we typically know the physical characteristics of the sensor (e.g., the reliability range for the sensor). So, we typically apply a cone-shaped or distance-scaled update rule to our map.
-
 Combining evidence involves the following steps:
 ![[baysian-odds-update.png]]
 - This process is very fast and simple
 - Pointing the sensor at the same location for long periods of time will increase resolution
 
 
+
+> Side note: we typically know the physical characteristics of the sensor (e.g., the reliability range for the sensor). So, we typically apply a cone-shaped or distance-scaled update rule to our map.
