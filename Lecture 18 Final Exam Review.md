@@ -104,6 +104,7 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 	- Difference between Model-free vs. model-based RL
 	- Additional reading: [On-Policy v/s Off-Policy Learning | by Abhishek Suran | Towards Data Science](https://towardsdatascience.com/on-policy-v-s-off-policy-learning-75089916bc2f)
 - **Transfer learning** (reference [[Lecture 13]]) ([[deeprl.pdf]])
+	- [Sukthankar CAP 6671 on 3/1/2023 (Wed) (panopto.com)](https://ucf.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3723f0cb-9f96-4372-85f0-af8100e24ab4) at 12:42
 	- Case study for Robocup (a paper on this) [[Lecture 13# TL in Robocup]]
 - Multi-agent learning (TPOT-RL)
 
