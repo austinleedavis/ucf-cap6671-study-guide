@@ -103,7 +103,7 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 	- Value iteration
 	- Difference between Model-free vs. model-based RL
 	- Additional reading: [On-Policy v/s Off-Policy Learning | by Abhishek Suran | Towards Data Science](https://towardsdatascience.com/on-policy-v-s-off-policy-learning-75089916bc2f)
-- **Transfer learning** (reference [[Lecture 13]])
+- **Transfer learning** (reference [[Lecture 13]]) ([[deeprl.pdf]])
 	- Case study for Robocup (a paper on this) [[Lecture 13# TL in Robocup]]
 - Multi-agent learning (TPOT-RL)
 
@@ -114,12 +114,14 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 	- How Convolutional NN and max pooling layers work
 	- Do not need to know recurrent RNNs and LSTMs
 - **[[DQN]]** (basic algorithm "IN DEPTH", and what the purpose of those components are)
-- Policy gradient and actor critic
+- [[Policy gradient and actor critic]]
 
 ## Robotics: Path Planning
 - Terminology and Fundamental concepts of map representation 
-- **A*** and real-time **A***
+- **A*** and real-time **A\***
 	- One detailed question about A*
+	- RTAA\*:
+	  ![[Pasted image 20230427213031.png]]
 - Wavefront planner
 - Workspace vs. configuration space
 - Sampling planners (RRT, PRM) (We Read a paper on RRT)
@@ -134,8 +136,9 @@ When you see a topic/algorithm in **bold**, that topic will very likely have a w
 	- "Definitely understand how MC localization works"
 - Must understand general research issues behind mapping, localization and coverage
 - Must understand general SLAM problem and these approaches (ref: [[Lecture 16#Simultaneous Localization and Mapping (SLAM)]]):
-	- FASTSLAM
-	- Kalman filter
+	- FASTSLAM #TODO
+	- Kalman filter #TODO
+
 
 ## Multi-robot Coordination
 - Auction-based approach

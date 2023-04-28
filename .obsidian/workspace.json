@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 18 Final Exam Review.md",
+                "file": "Minor notes/RETSINA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d36e655fdf0d1114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minor notes/Sussman anomaly.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "localization",
+                "query": "beli",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 18 Final Exam Review.md",
+                "file": "Minor notes/Sussman anomaly.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 18 Final Exam Review.md",
+                "file": "Minor notes/Sussman anomaly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 18 Final Exam Review.md"
+                "file": "Minor notes/Sussman anomaly.md"
               }
             }
           }
@@ -147,18 +160,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "672f337ac02fc145",
+  "active": "d36e655fdf0d1114",
   "lastOpenFiles": [
-    "DQN.md",
     "Lecture 18 Final Exam Review.md",
+    "Minor notes/RETSINA.md",
+    "Minor notes/Sussman anomaly.md",
+    "Minor notes/MAS coordination types.md",
+    "Lecture Notes/Lecture 18 (part 2) End of Course Summary.md",
+    "Minor notes/DQN.md",
+    "Policy gradient and actor critic.md",
+    "Media/Pasted image 20230428113607.png",
+    "Reading/week07/deeprl.pdf",
+    "Media/Pasted image 20230428110825.png",
+    "Media/Pasted image 20230428110720.png",
+    "Media/Pasted image 20230428110440.png",
+    "bibliography-cap6671-class.md",
+    "README.md",
+    "Media/Pasted image 20230427213031.png",
+    "Reading/week09/fox.aaai99.pdf",
+    "Reading/week08/rtaa_aamas06.pdf",
+    "Reading/week08/lavalle_icra1999.pdf",
+    "Reading/week09/iros03-mapping.pdf",
     "Lecture Notes/Lecture 16.md",
     "Lecture Notes/Lecture 15.md",
-    "README.md",
     "Lecture Notes/Lecture 13.md",
     "Reading/cap6671-all-lectures-combined.pdf",
     "Reading/week06/starcraft.pdf",
     "Reading notes/@Churchill2012.md",
-    "bibliography-cap6671-class.md",
     "@Stone1999a.md",
     "Minor notes/dynamic role assignment and positioning system.md",
     "Lecture Notes/Lecture 08.md",
@@ -167,34 +195,19 @@
     "Lecture Notes/Lecture 02.md",
     "Lecture Notes/Lecture 01.md",
     "Minor notes/Graphplan.md",
-    "Minor notes/RETSINA.md",
     "Reading notes/@Greenwald2009.md",
     "Minor notes/Planning vs Scheduling.md",
     "Minor notes/Dock Worker Robot (DWR) domain.md",
     "Reading/week01/sycara-mas.pdf",
     "Reading notes/@Brooks2008.md",
     "Reading notes/@Jennings2014.md",
-    "Lecture Notes/Lecture 07.md",
-    "Lecture Notes/Lecture 09.md",
-    "Lecture Notes/Lecture 10.md",
     "Reading/week05/macalpine.pdf",
     "Media/dynamic-role-assignment-results.png",
     "Media/dynamic-role-assignment-benchmarks.png",
     "Reading/week05/mendoza2016.pdf",
-    "Reading/week05/stone99cmunited.pdf",
     "Media/dynamic-role-assignment-algorithm-pseudocode.png",
     "Media/dynamic-role-assignment-table.png",
-    "Minor notes/TAC Classic competition.md",
-    "Reading/week04/greenwald01autonomous.pdf",
-    "Reading/week02/AIIDE08-010.pdf",
-    "Minor notes",
     "Media/baysian-odds-update.png",
-    "Media/odds-bayesian-update.png",
-    "Media/Combining Sensor Data.png",
-    "Media/Mapping example, occupancy of tree-lined path.png",
-    "Media/pasted images/nau-planning-fig4.png",
-    "Media/pasted images",
-    "Media/pasted images/Policy improvement via Monte-Carlo.png",
     "Untitled.canvas"
   ]
 }
